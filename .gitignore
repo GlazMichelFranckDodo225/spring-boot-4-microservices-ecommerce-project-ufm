@@ -1,0 +1,33 @@
+HELP.md
+/spring-boot-4-microservices-ecommerce-project-ufm/target/
+/spring-boot-4-microservices-ecommerce-project-ufm/.mvn/wrapper/maven-wrapper.jar
+!**/spring-boot-4-microservices-ecommerce-project-ufm/src/main/**/target/
+!**/spring-boot-4-microservices-ecommerce-project-ufm/src/test/**/target/
+
+### STS ###
+/spring-boot-4-microservices-ecommerce-project-ufm/.apt_generated
+/spring-boot-4-microservices-ecommerce-project-ufm/.classpath
+.factorypath
+/spring-boot-4-microservices-ecommerce-project-ufm/.project
+/spring-boot-4-microservices-ecommerce-project-ufm/.settings
+/spring-boot-4-microservices-ecommerce-project-ufm/.springBeans
+/spring-boot-4-microservices-ecommerce-project-ufm/.sts4-cache
+
+### IntelliJ IDEA ###
+/spring-boot-4-microservices-ecommerce-project-ufm/.idea
+/spring-boot-4-microservices-ecommerce-project-ufm/*.iws
+/spring-boot-4-microservices-ecommerce-project-ufm/*.iml
+/spring-boot-4-microservices-ecommerce-project-ufm/*.ipr
+
+### NetBeans ###
+/spring-boot-4-microservices-ecommerce-project-ufm/nbproject/private/
+/spring-boot-4-microservices-ecommerce-project-ufm/nbbuild/
+/spring-boot-4-microservices-ecommerce-project-ufm/dist/
+/spring-boot-4-microservices-ecommerce-project-ufm/nbdist/
+/spring-boot-4-microservices-ecommerce-project-ufm/.nb-gradle/
+/spring-boot-4-microservices-ecommerce-project-ufm/build/
+!**/spring-boot-4-microservices-ecommerce-project-ufm/src/main/**/build/
+!**/spring-boot-4-microservices-ecommerce-project-ufm/src/test/**/build/
+
+### VS Code ###
+.vscode/spring-boot-4-microservices-ecommerce-project-ufm/
